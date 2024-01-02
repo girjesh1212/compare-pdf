@@ -6,6 +6,8 @@ This is a javascript code to compare text between two pdf files like git diff me
 
 - Clone the repository
 
+- Install the dependencies using "npm install"
+
 - In the index.js file, provide the pdf file paths in the variables called path1 and path2\. For demo, there are 1.pdf and 2.pdf present in the project.
 
 - Run the code using startup script: "npm run start"

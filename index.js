@@ -24,7 +24,7 @@ async function comparePdfs(pdf1_path, pdf2_path) {
 }
 
 
-const path1 = './1.pdf';
-const path2 = './2.pdf';
+const path1 = './pdfs/1.pdf';
+const path2 = './pdfs/2.pdf';
 
 comparePdfs(path1, path2);
